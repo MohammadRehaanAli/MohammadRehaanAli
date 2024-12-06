@@ -5,21 +5,13 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.reh.aan_/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](http://datascienceportfol.io/rehaanali)
 
+## 👋 About Me
+I am a motivated final-year B.Tech student specializing in **Computer Science and Data Science**. Passionate about leveraging data to solve real-world problems, I possess a strong foundation in data analysis and visualization. Skilled in Python, SQL, and tools like Excel and Tableau, I enjoy uncovering insights and building impactful solutions.
+
 ## 🌟 Skills
-### **Programming**
-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) Python
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) MySQL
-
-### **Tools**
-- ![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel&logoColor=white) Microsoft Excel
-- ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white) Tableau
-- ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-green?style=flat&logo=google-sheets&logoColor=white) Google Sheets
-
-### **Core Competencies**
-- 🧮 **Data Analysis**
-- 📊 **Data Visualization**
-- 🤖 **Machine Learning**
-- 📈 **Statistical Analysis**
+- **Programming**: Python, MySQL
+- **Tools**: Excel, Tableau, Google Sheets
+- **Core Competencies**: Data Analysis, Visualization, Machine Learning, Statistical Analysis
 
 ## 📫 Let's Connect
 - **Email**: [rehaan06504@gmail.com](mailto:rehaan06504@gmail.com)
