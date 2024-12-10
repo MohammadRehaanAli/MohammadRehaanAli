@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](http://datascienceportfol.io/rehaanali)
 
 ## 👋 About Me
-I am a motivated final-year B.Tech student specializing in **Computer Science and Data Science**. Passionate about leveraging data to solve real-world problems, I possess a strong foundation in data analysis and visualization. Skilled in Python, SQL, and tools like Excel and Tableau, I enjoy uncovering insights and building impactful solutions.
+I am a motivated final-year B.Tech student specializing in **Computer Science and Engineerimg in Data Science**. Passionate about leveraging data to solve real-world problems, I possess a strong foundation in data analysis and visualization. Skilled in Python, SQL, and tools like Excel and Tableau, I enjoy uncovering insights and building impactful solutions.
 
 ## 🌟 Skills
 - **Programming**: Python, MySQL
