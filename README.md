@@ -10,7 +10,7 @@ I am a motivated final-year B.Tech student specializing in **Computer Science an
 
 ## 🌟 Skills
 - **Programming**: Python, MySQL
-- **Tools**: Microsoft Excel, Tableau, Google Sheets
+- **Tools**: Microsoft Excel, Tableau, Google Sheets , Power Bi
 - **Core Competencies**: Data Analysis, Visualization, Machine Learning, Statistical Analysis
 
 ## 📫 Let's Connect
