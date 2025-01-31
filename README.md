@@ -15,9 +15,9 @@ Tableau to analyze sales data and build interactive dashboards. Eager to apply m
 support data-driven strategies in a collaborative environment.
 
 ## 🌟 Skills
-- **Programming**: Python, MySQL
-- **Tools**: Microsoft Excel, Tableau, Google Sheets , Power Bi
-- **Core Competencies**: Data Analysis, Visualization, Machine Learning, Statistical Analysis
+- **Programming**: Python, MySQL , HTML , CSS
+- **Tools**: Microsoft Excel, Tableau, Google Sheets , Microsoft Power Bi
+- **Core Competencies**: Data Analysis, Data Visualization, Machine Learning, Statistical Analysis
 
 ## 📫 Let's Connect
 - **Email**: [rehaan06504@gmail.com](mailto:rehaan06504@gmail.com)
