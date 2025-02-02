@@ -7,12 +7,12 @@
 
 ## 👋 About Me
 I’m a motivated final-year B.Tech CSE (Data Science) student with expertise in data analytics and a 
-passion for extracting insights from complex datasets. Proficient in Python, SQL, Power BI, and Excel, I 
-have led impactful projects such as Energy Consumption Trend Analysis, where I created Power BI 
-dashboards to visualize energy costs and consumption trends. In Real Estate Market Analysis, I 
-applied Python for exploratory data analysis, uncovering key trends. Additionally, I used SQL and 
-Tableau to analyze sales data and build interactive dashboards. Eager to apply my analytical skills to 
-support data-driven strategies in a collaborative environment.
+passion for extracting insights from complex datasets. I am Proficient in Python, SQL, Power BI, and 
+Excel, I have led impactful projects such as Energy Consumption Trend Analysis, where I created 
+Power BI dashboards to visualize energy costs and consumption trends. In Uber Trip Analysis, I built 
+ML models (XGBoost, Random Forest) to predict demand, achieving MAPE: 8.60%. Additionally, I used 
+SQL and Tableau to analyze sales data and build interactive dashboards. Eager to apply my analytical 
+skills to support data-driven strategies in a collaborative environment. 
 
 ## 🌟 Skills
 - **Programming**: Python, MySQL , HTML , CSS
