@@ -5,6 +5,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.reh.aan_/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](http://datascienceportfol.io/rehaanali)
 
+
+![image](https://github.com/user-attachments/assets/e2cddf95-af60-41e1-972f-7d0eb4b9314d)
+
 ## 👋 About Me
 I’m a motivated final-year B.Tech CSE (Data Science) student with expertise in data analytics and a 
 passion for extracting insights from complex datasets. I am Proficient in Python, SQL, Power BI, and 
