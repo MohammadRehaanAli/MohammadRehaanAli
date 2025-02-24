@@ -6,7 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome&logoColor=white)](http://datascienceportfol.io/rehaanali)
 
 
-![image](https://github.com/user-attachments/assets/e2cddf95-af60-41e1-972f-7d0eb4b9314d)
+![image](https://github.com/user-attachments/assets/6fe7d3e6-641c-455e-903a-ed2d22e0a5ae)
+
 
 ## 👋 About Me
 I’m a motivated final-year B.Tech CSE (Data Science) student with expertise in data analytics and a 
