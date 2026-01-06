@@ -19,7 +19,7 @@ SQL and Tableau to analyze sales data and build interactive dashboards. Eager to
 skills to support data-driven strategies in a collaborative environment. 
 
 ## 🌟 Skills
-- **Programming**: Python, MySQL , HTML , CSS
+- **Programming**: Python, MySQL.
 - **Tools**: Microsoft Excel, Tableau, Google Sheets , Microsoft Power Bi
 - **Core Competencies**: Data Analysis, Data Visualization, Machine Learning, Statistical Analysis
 
