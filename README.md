@@ -1,6 +1,6 @@
 # Mohammad Rehaan Ali
 
-**Data Analyst | Data Science Graduate**  
+***Data Analyst | Data Science Graduate***  
 Python • SQL • Power BI • Tableau • Data Analytics
 
 
@@ -23,9 +23,12 @@ My primary strengths lie in analytical thinking, clean data preparation, and pre
 - **Core Competencies**: Data Analysis, Data Visualization, Machine Learning, Statistical Analysis
 
 
-📌 *Projects and hands-on work are available in individual repositories below.*
+
 
 
 ## 📫 Let's Connect
 - **Email**: [rehaan06504@gmail.com](mailto:rehaan06504@gmail.com)
 - **Phone**: +91 94936 52004
+
+
+📌 *Projects and hands-on work are available in individual repositories below.*
